@@ -27,6 +27,20 @@
         "xutility": "cpp",
         "system_error": "cpp",
         "ostream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "__locale": "cpp",
+        "xlocale": "cpp",
+        "xtree": "cpp",
+        "tuple": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "map": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "streambuf": "cpp",
+        "typeinfo": "cpp",
+        "xfacet": "cpp",
+        "xlocinfo": "cpp",
+        "xlocnum": "cpp"
     }
 }

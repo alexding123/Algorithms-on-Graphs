@@ -80,18 +80,6 @@ public:
         }
 
     }
-    /*
-6 8
-1 2 2
-1 6 10
-1 5 4
-5 6 1
-5 3 2
-2 4 3
-3 4 1
-4 5 1
-100
-*/
     Len shortest_path() {
         Len best_dist = INFINITY; 
         for (int i = 0; i < workset_.size(); i++) {
