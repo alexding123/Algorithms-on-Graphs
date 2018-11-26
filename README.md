@@ -28,3 +28,5 @@ Homework for [the Algorithms on Graphs course](https://www.coursera.org/learn/al
 1. friend suggestion
 2. dist with coords
 3. travelling salesman problem
+
+Alex Ding, 2017
