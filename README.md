@@ -1,4 +1,4 @@
-# Algorithms-on-Graphs
+# Algorithms on Graphs
 Homework for [the Algorithms on Graphs course](https://www.coursera.org/learn/algorithms-on-graphs) in the Data Structure and Algorithms specialization, on Coursera. I had a great time with the challenging problems. Solved the challenge problems too. 
 
 ## Weekly Breakdown
