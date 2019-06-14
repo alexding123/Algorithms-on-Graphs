@@ -1,6 +1,8 @@
 # Algorithms on Graphs
 Homework for [the Algorithms on Graphs course](https://www.coursera.org/learn/algorithms-on-graphs) in the Data Structure and Algorithms specialization, on Coursera. I had a great time with the challenging problems. Solved the challenge problems too. 
 
+Certificate is found [here](https://www.coursera.org/account/accomplishments/records/N8NAX76MDDJH).
+
 ## Weekly Breakdown
 ### Week 1: Decomposition of Graphs 1
 1. connected components
